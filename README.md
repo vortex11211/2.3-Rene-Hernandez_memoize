@@ -25,10 +25,6 @@ Compila el proyecto
 
 **npx tsc**
 
-Ejecuta el archivo index.js en la carpeta dist
-
-**node dist/index.js**
-
 Para ejecutar las pruebas unitarias utiliza el siguiente comando:
 
 **npx jest**
